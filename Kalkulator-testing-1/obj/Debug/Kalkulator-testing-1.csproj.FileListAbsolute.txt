@@ -1,0 +1,9 @@
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\bin\Debug\Kalkulator-testing-1.exe.config
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\obj\Debug\Kalkulator-testing-1.csprojResolveAssemblyReference.cache
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\obj\Debug\Kalkulator_testing_1.Form1.resources
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\obj\Debug\Kalkulator_testing_1.Properties.Resources.resources
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\obj\Debug\Kalkulator-testing-1.csproj.GenerateResource.Cache
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\bin\Debug\Kalkulator-testing-1.exe
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\bin\Debug\Kalkulator-testing-1.pdb
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\obj\Debug\Kalkulator-testing-1.exe
+C:\Users\Lab1A-15\Documents\Visual Studio 2013\Projects\Kalkulator-testing-1\Kalkulator-testing-1\obj\Debug\Kalkulator-testing-1.pdb
